@@ -22,3 +22,7 @@ torch-geometric
 numpy
 matplotlib
 scikit-learn
+
+``bash
+git clone https://github.com/Anton-Cherepkov/gnn-mnist-classification.git
+cd gnn-mnist-classification
